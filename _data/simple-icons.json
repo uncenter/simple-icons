@@ -17240,6 +17240,12 @@
             "source": "https://github.com/zulip/zulip/blob/df9e40491dc77b658d943cff36a816d46e32ce1b/static/images/logo/zulip-org-logo.svg"
         },
         {
+            "title": "Zwift",
+            "hex": "FB6418",
+            "source": "https://www.zwift.com",
+            "guidelines": "https://support.zwift.com/en_us/terms-of-service-HJt7VBYyH"
+        },
+        {
             "title": "Zyte",
             "hex": "B02CCE",
             "source": "https://www.zyte.com"
